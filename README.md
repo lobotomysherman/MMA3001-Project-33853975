@@ -151,7 +151,3 @@ On every run, `verify_algorithms()` checks the implementation on synthetic data 
 ```
 
 Inside `Tree_Project.py`, the code is organised into numbered sections: settings, data reading, tree finding, evaluation and plotting, folder selection and run setup, per-observation processing, aggregation and reports, and the entry point. Docstrings use NumPy style.
-
-## AI assistance
-
-AI assistance was used for refactoring and documentation of this code. Review and disclose that contribution in the accompanying project report as required.

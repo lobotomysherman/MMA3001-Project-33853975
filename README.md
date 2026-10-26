@@ -1,6 +1,5 @@
 # 2D Apple-Tree Segmentation and Skeleton Extraction
 
-MMA3001 – Dataset 1.
 
 A single-script pipeline that segments apple trees in paired RGB and depth images, thins the segmented trunk and branches to a one-pixel skeleton, and compares two segmentation approaches. It records accuracy (where ground truth is available), runtime and diagnostics for every run.
 
